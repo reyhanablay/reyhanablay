@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reyhanablay  
-- 👀 I’m I’m a Computer Engineering student interested in Data Science.
+- 👀 I’m a Computer Engineering student interested in Data Science.
 - 💫 I work with Python, C#, C/C++ and MySQL, and I enjoy building projects related to machine learning, data analysis, and embedded systems.
 - 💖 My recent work includes ML classification and regression projects, STM32-based embedded applications, and C# projects connected to SQL databases.
 - 🎀 Currently improving my skills in Machine Learning and Sentiment Analysis.
