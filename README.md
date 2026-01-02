@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @reyhanablay  
-- 👀 I’m interested in embedded systems, especially STM32, and data analysis using Python.  
-- 🌱 I’m currently working on Python-based data analysis projects and have completed an internship with STM32 embedded systems.  
-- 💞️ I’m looking to collaborate on projects related to embedded systems, data analysis, and software development.  
+- 👀 I’m I’m a Computer Engineering student interested in Data Science.
+- 💫 I work with Python, C#, C/C++ and MySQL, and I enjoy building projects related to machine learning, data analysis, and embedded systems.
+- 💖 My recent work includes ML classification and regression projects, STM32-based embedded applications, and C# projects connected to SQL databases.
+- 🎀 Currently improving my skills in Machine Learning and Sentiment Analysis.
 - 📫 How to reach me: reyhanablay@gmail.com | [LinkedIn](https://linkedin.com/in/reyhanablay)  
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I’ve loved swimming since childhood and enjoy staying active in the sport.
-  
+- ⭐️ Fun fact: I’ve loved swimming since childhood and enjoy staying active in the
