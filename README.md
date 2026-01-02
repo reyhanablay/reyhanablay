@@ -4,4 +4,4 @@
 - 💖 My recent work includes ML classification and regression projects, STM32-based embedded applications, and C# projects connected to SQL databases.
 - 🎀 Currently improving my skills in Machine Learning and Sentiment Analysis.
 - 📫 How to reach me: reyhanablay@gmail.com | [LinkedIn](https://linkedin.com/in/reyhanablay)  
-- ⭐️ Fun fact: I’ve loved swimming since childhood and enjoy staying active in the
+- ⭐️ Fun fact: I’ve loved swimming since childhood and enjoy staying active.
