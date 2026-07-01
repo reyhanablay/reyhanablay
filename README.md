@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @reyhanablay  
-- 👀 I’m a Computer Engineering student interested in Data Science.
-- 💫 I work with Python, C#, C/C++ and MySQL, and I enjoy building projects related to machine learning, data analysis, and embedded systems.
-- 💖 My recent work includes ML classification and regression projects, STM32-based embedded applications, and C# projects connected to SQL databases.
-- 🎀 Currently improving my skills in Machine Learning and Sentiment Analysis.
-- 📫 How to reach me: reyhanablay@gmail.com | [LinkedIn](https://linkedin.com/in/reyhanablay)  
-- ⭐️ Fun fact: I’ve loved swimming since childhood and enjoy staying active.
+🌸 Hi, I’m Reyhan Ablay (@reyhanablay) 
+🦢 I’m a newly graduated Computer Engineer with a strict focus on Data Science, Machine Learning, and NLP. 
+🪄 I work with Python, SQL, Flutter, and Dart, specializing in building end-to-end data-oriented projects and cross-platform mobile apps. 
+🎀 My portfolio features "Sephora AI" – an end-to-end cosmetic analysis app powered by XGBoost & LSTM, and I am actively building new data-driven projects! 
+🤍 Currently passionate about transforming complex ML models and data analytics into beautiful, user-friendly mobile interfaces. 
+💌 How to reach me: reyhanablay@gmail.com |[LinkedIn](https://linkedin.com/in/reyhanablay)  
+⭐️ Fun fact: I’ve loved swimming since childhood and enjoy staying active.
